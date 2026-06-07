@@ -1,0 +1,65 @@
+[01:06:37] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.18.2
+[01:06:38] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.5
+[01:06:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/gaston-pichi/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:06:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:06:51] [main/INFO]: Loaded 1373 recipes
+[01:06:51] [main/INFO]: Loaded 1484 advancements
+[01:06:51] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:06:51] [Server thread/INFO]: Loading properties
+[01:06:51] [Server thread/INFO]: Default game type: SURVIVAL
+[01:06:51] [Server thread/INFO]: Generating keypair
+[01:06:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:06:52] [Server thread/INFO]: Using epoll channel type
+[01:06:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:06:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:06:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:06:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:06:52] [Server thread/INFO]: Preparing level "world"
+[01:06:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:01] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:01] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:02] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:03] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:03] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:03] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:05] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:05] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:05] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:05] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:09] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:09] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:10] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:10] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:07:12] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[01:07:12] [Server thread/INFO]: Time elapsed: 19610 ms
+[01:07:12] [Server thread/INFO]: Done (20.088s)! For help, type "help"
+[01:08:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
